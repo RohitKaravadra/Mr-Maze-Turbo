@@ -1,0 +1,17 @@
+
+
+
+                                / CONTROLS \
+   
+
+                      * Use arrow keys to move cursor.
+
+                                   ^ - Up
+                                   < - Left 
+                                   > - Right
+                                   v - Down
+                       
+                       * BACKSPACE for previous menu
+                        
+                            * ENTER for next menu
+  
